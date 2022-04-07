@@ -1,0 +1,92 @@
+.home {
+    color: #5FB4A2;
+}
+
+.content {
+    align-items: flex-end;
+    background-image: url(../../assets/home/image-homepage-hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    height: 600px;
+    justify-content: flex-start;
+    left: 165px;
+    margin: 54px 165px 149px;
+    top: 150px;
+    width: 1110px;
+}
+
+.apresentacao {
+    background-color: #fff;
+    padding: 50px 28px 101px 27px;
+    margin: 243px 665px 0px 0px;
+}
+
+.btn {
+    align-items: center;
+    background-color: #203A4C;
+    color: #fff;
+    display: flex;
+    padding-right: 20px;
+    margin-top: 53px;
+    margin-left: 0px;
+}
+
+button img {
+    background-color: #182b38;
+    margin-right: 20px;
+    padding: 18px 16px;
+}
+.about {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 149px 165px 150px;
+}
+ 
+.foto img {
+    height: 600px;
+}
+
+.sobre {
+    background-color: #fff;
+    box-shadow: 0px 1px rgb(151, 149, 149);
+    justify-content: center;
+    margin-left: 140px;
+    padding-top: 51px;
+}
+
+.sobre h2 {
+    margin-bottom: 28px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.sobre p {
+    margin-bottom: 24px;
+}
+
+.sobre button {
+    background-color: #fff;
+    margin-left: 80px;
+    padding: 17px 28px;
+}
+
+.convite {
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    margin: 150px 165px;
+    padding: 18px 0px;
+}
+
+
+.frase {
+    font-size: 40px;
+}
+
+.convite button {
+    background-color: #fff;
+    margin-left: 80px;
+    padding: 17px 50px;
+}

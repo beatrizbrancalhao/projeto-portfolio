@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.font-ibarra {
+    font-family: 'Ibarra Real Nova';
+    font-weight: 700;
+}
+
+.font-public {
+    font-family: 'Public Sans';
+    font-weight: 400;
+}
+
+header {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 64px 164px 54px 165px;
+}
+
+header a {
+    color: #33323D;
+    margin-left: 42px;
+}
+
+a {
+    text-decoration: none;
+    
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    margin-left: 42px;
+}
+
+footer {
+    background-color: #33323D;
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 165px;
+}
+
+footer a {
+    color: #fff;
+}
+
+.pages {
+    margin: 33px 488px 33px 48px;
+}
+
+.pages a {
+    margin-left: 42px;
+}
+
+.links {
+    margin: 28px 0px;
+}
+
+.links img {
+    margin-left: 15px;
+}
